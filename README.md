@@ -1,7 +1,7 @@
 # Introduction
 This repository was my first C++ project, which purpose was to get familiar with the language, as well as it's intricacies.<br>
 Focus was on using pointers and references, and managing garbage collection, to keep memory usage stable.<br>
-With the use of the SFML library, the final product was a small turn-based battle game with rpg elements.
+With the use of the SFML library, the final product was a small turn-based battle game with rpg elements.<br>
 For more details about noteworthy classes and implementations, refer to the [Wiki](https://github.com/Andruchne/Battle-Rounds/wiki/Documentation).
 <br>
 <br>
